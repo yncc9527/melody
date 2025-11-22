@@ -78,8 +78,8 @@ This project aims to build a music NFT and liquidity management platform based o
   - `FractionalVaultV3` calls `addVesting` upon `finalizeDistribution`.
 
 ### 3.6 MemeToken
-- Specific BRC20 token for each song.
-- Standard BRC20 interface.
+- Specific BEP-20 token for each song.
+- Standard BEP-20 interface.
 - Used to represent participating user equity.
 
 ---
