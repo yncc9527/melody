@@ -36,7 +36,7 @@ This project aims to build a music NFT and liquidity management platform based o
 - **Music Series (MusicSeries)**:
   - Artists create series (via Factory).
   - Create songs under the factory pattern (`createMusic`).
-  - Each song corresponds to an independent MemeToken (ERC20).
+  - Each song corresponds to an independent MemeToken (BEP-20).
 - **Song Management**:
   - Record song metadata (IPFS CID, target raise amount, raise duration, etc.).
   - User subscription funds (payable).
